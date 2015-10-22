@@ -11,6 +11,7 @@ void main()
 	color.push_back("red");
 	color.push_back("yellow");
 	color.push_back("purple");
+	color.push_back("green");
 
 	vector<string> size;
 	size.push_back("small");
