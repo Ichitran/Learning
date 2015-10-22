@@ -13,11 +13,11 @@ void main()
 	color.push_back("purple");
 	color.push_back("green");
 	color.push_back("white");
-
 	vector<string> size;
 	size.push_back("small");
 	size.push_back("medium");
 	size.push_back("large");
+	size.push_back("X large");
 
 	string isBordered[] = { "true", "false" };
 	vector<string> bordered;
